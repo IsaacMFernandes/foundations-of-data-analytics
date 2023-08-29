@@ -1,27 +1,27 @@
-## First Name Last Name
+## Isaac Fernandes
 
-### Term Year 
+### Fall 2023
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+CS student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Operating Systems
 
-- Course 2
+- Foundations of Data Analytics
 
-- Course 3
+- Software Design and Architecture
 
-- Course 4
+- Human Computer Interaction
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Programming
 
-- Thing 2
+- Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Learning and succeeding in my University: <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/08/29
