@@ -12,7 +12,7 @@ CS student at [Florida Polytechnic University](https://www.floridapoly.edu) curr
 
 - Human Computer Interaction
 
-**Hobbies:**
+**Hobbies**
 
 I am _passionate about_: 
 
