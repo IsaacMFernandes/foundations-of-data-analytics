@@ -4,13 +4,12 @@
 
 CS student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Operating Systems
-
-- Foundations of Data Analytics
-
-- Software Design and Architecture
-
-- Human Computer Interaction
+| **Prefix** | **Number** |                *Name*              | Credits |
+| :--------: | :--------: | :--------------------------------: | :-----: |
+|   **CEN**  |  **4065**  | *Software Design and Architecture* |    3    |
+|   **CEN**  |  **4721**  |    *Human Computer Interaction*    |    3    |
+|   **COP**  |  **2073**  |  *Foundations of Data Analytics*   |    3    |
+|   **COP**  |  **4610**  |    *Operating Systems Concepts*    |    3    |
 
 **Hobbies**
 
